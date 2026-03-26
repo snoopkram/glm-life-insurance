@@ -5,7 +5,7 @@
 This project analyzes historical mortality trends (1876 - 2024) and models future death probabilities using Generalized Linear Models (GLMs). The goal is to quantify the impact of increasing life expectancy (longevity risk) on the pricing of annuity insurance.
 
 ## Data Source
-* Human Mortality Database (HMD): deaths and exposure to risk 1876 - 2024
+* Human Mortality Database (HMD): deaths and exposure to risk 1876 - 2024 (last modified 26 September 2025)
 
 ## Tools Used
 * Python for data preparation and modeling

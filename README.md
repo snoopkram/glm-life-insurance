@@ -8,8 +8,7 @@ Dieses Projekt analysiert historische Sterblichkeitstrends und modelliert zukün
 * Human Mortality Database (HMD) - Sterbetafeln und Populationsdaten.
 
 ## Verwendete Tools
-* [R / Python] für Datenaufbereitung und Modellierung
+* [Python] für Datenaufbereitung und Modellierung
 * GLM (Poisson-Verteilung)
-* Finanzmathematik (Barwertberechnung)
 
 *(Status: Work in Progress)*
